@@ -1,2 +1,2 @@
 # hello-go
-A step into the world of Go
+A step into the world of Go.
